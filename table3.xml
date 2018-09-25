@@ -1,0 +1,26 @@
+<persons>
+
+   <person>
+   <id>1</id>
+   <name>JohnDoe</name>
+   <address>H#38,R#3,Banani,Dhaka</address>
+   <department>sales</department>
+   <salary>$20000</salary>
+   
+   
+   <person>
+   <id>2</id>
+   <name>MarkZuckerberg</name>
+   <address>Flat#A1,H#20,R#18,Mirpur,Dhaka</address>
+   <department>accounts</department>
+   <salary>$12000</salary>
+   
+   
+   <person>
+   <id>3</id>
+   <name>AlaVoski</name>
+   <address>H#38,R#3,Motijheel,Dhaka</address>
+   <department>HumanResource</department>
+   <salary>$30000</salary>
+   
+</persons>
